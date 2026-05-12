@@ -16,4 +16,5 @@ If anyone wants to run the notebook themselves:
 
 ## Option 2
 1. Open the binder link to run the notebook online without needing to install JupyterLab/Jupyter Notebook:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fluxstorms/Text-Analysis/tree/main/main?urlpath=%2Fdoc%2Ftree%2FAvatar_The_Last_Airbender_S3_E21.ipynb)
