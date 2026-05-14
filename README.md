@@ -5,6 +5,7 @@ This Jupyter Notebook analyzes the transcript of Avatar The Last Airbender Seaso
 1. **Avatar_S3_E21_Transcript.txt:** Contains the transcript (taken from https://avatar.fandom.com/wiki/Transcript:Sozin%27s_Comet,_Part_4:_Avatar_Aang)
 2. **requirements.txt:** Contains the Python package requirements for the notebook
 3. **Avatar_The_Last_Airbender_S3_E21.ipynb:** Contains the notebook
+4. postBuild: Contains the instructions for Binder to download the spacy language model
 
 # Instructions
 If anyone wants to run the notebook themselves:
@@ -15,6 +16,6 @@ If anyone wants to run the notebook themselves:
 3. Run the notebook
 
 ## Option 2
-1. Open the binder link to run the notebook online without needing to install JupyterLab/Jupyter Notebook:
+1. Open the Binder link to run the notebook online without needing to install JupyterLab/Jupyter Notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fluxstorms/Text-Analysis/main?urlpath=%2Fdoc%2Ftree%2FAvatar_The_Last_Airbender_S3_E21.ipynb)
